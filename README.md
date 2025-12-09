@@ -102,9 +102,7 @@ Pasos clave del despliegue:
 
      - Runtime: Python 3
 
-     - Start Command:
-
-     - streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
+     - Start Command: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 
 **4.** Agregar archivo ``config.toml`` para desactivar CORS y XSRF
 
