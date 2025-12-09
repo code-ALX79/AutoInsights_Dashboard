@@ -1,6 +1,6 @@
 🚗 **AutoInsights Dashboard**
 
-Dashboard interactivo para el análisis de ventas de  vehículos en EE.UU., desarrollado con Python + Streamlit y desplegado en la nube usando Render.
+Dashboard interactivo para el análisis de ventas de  vehículos en EE.UU. , desarrollado con Python + Streamlit y desplegado en la nube usando Render.
 
 **Aplicación desplegada:**
 
