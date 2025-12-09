@@ -16,9 +16,12 @@ Usa los controles para generar visualizaciones interactivas.
 """)
 
 # --- Cargar datos ---
+
+
 @st.cache_data
 def load_data():
-    return pd.read_csv("vehicles_us.csv")
+    return pd.read_csv("data/vehicles_us.csv")
+
 
 car_data = load_data()
 
@@ -39,4 +42,5 @@ if st.sidebar.checkbox("Mostrar Dispersión (Odometer vs Price)", value=True):
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Desarrollado por Alexander  Herrera — Proyecto educativo para análisis de datos.")
+st.caption(
+    "Desarrollado por Alexander  Herrera — Proyecto educativo para análisis de datos.")
