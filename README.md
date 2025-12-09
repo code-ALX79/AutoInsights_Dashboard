@@ -100,7 +100,7 @@ Pasos clave del despliegue:
 
 **3.** Configurar:
 
-     - Runtime: **Python 3**
+     - Runtime: *Python 3*
 
      - Start Command:
 
@@ -167,6 +167,6 @@ Si quieres mejorarlo:
 
 🧑‍💻 **Autor**
 
-**Edwin Herrera**
+**Alexander Herrera**
 
 Analista de Datos | Desarrollo Web | Automatización
